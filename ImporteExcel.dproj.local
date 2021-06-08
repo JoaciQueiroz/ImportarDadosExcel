@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2021/03/23 22:48:48.000.325,=C:\Users\NoteQroz\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/03/23 23:21:18.000.777,=C:\Users\NoteQroz\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/03/24 19:15:16.000.942,=C:\Users\NoteQroz\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/03/25 01:16:03.000.647,=C:\Users\NoteQroz\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/03/31 17:43:27.000.009,=C:\Users\NoteQroz\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/03/31 18:02:42.000.246,=C:\Users\NoteQroz\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/04/27 14:38:47.000.380,=C:\Users\NoteQroz\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/04/27 14:54:52.000.545,C:\ImportaExcel\uImportarExcel.pas=C:\Users\NoteQroz\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/04/27 14:54:52.000.545,C:\ImportaExcel\uImportarExcel.dfm=C:\Users\NoteQroz\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2021/04/27 14:55:08.000.205,C:\ImportaExcel\ImporteExcel.dproj=C:\Users\NoteQroz\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
